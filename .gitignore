@@ -1,0 +1,5 @@
+.theos
+out
+packages
+.DS_Store
+scripts

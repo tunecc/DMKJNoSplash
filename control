@@ -1,0 +1,9 @@
+Package: com.tune.dmkjnosplash
+Name: DMKJNoSplash
+Version: 0.0.5
+Architecture: iphoneos-arm
+Description: 去除到梦空间 4.9.2 开屏广告
+Maintainer: Tune
+Author: Tune
+Section: Tweaks
+Depends: mobilesubstrate
